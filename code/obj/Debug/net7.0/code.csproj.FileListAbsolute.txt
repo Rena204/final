@@ -1,0 +1,15 @@
+C:\GeekBrains\LastLesson\code\bin\Debug\net7.0\code.exe
+C:\GeekBrains\LastLesson\code\bin\Debug\net7.0\code.deps.json
+C:\GeekBrains\LastLesson\code\bin\Debug\net7.0\code.runtimeconfig.json
+C:\GeekBrains\LastLesson\code\bin\Debug\net7.0\code.dll
+C:\GeekBrains\LastLesson\code\bin\Debug\net7.0\code.pdb
+C:\GeekBrains\LastLesson\code\obj\Debug\net7.0\code.csproj.AssemblyReference.cache
+C:\GeekBrains\LastLesson\code\obj\Debug\net7.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\LastLesson\code\obj\Debug\net7.0\code.AssemblyInfoInputs.cache
+C:\GeekBrains\LastLesson\code\obj\Debug\net7.0\code.AssemblyInfo.cs
+C:\GeekBrains\LastLesson\code\obj\Debug\net7.0\code.csproj.CoreCompileInputs.cache
+C:\GeekBrains\LastLesson\code\obj\Debug\net7.0\code.dll
+C:\GeekBrains\LastLesson\code\obj\Debug\net7.0\refint\code.dll
+C:\GeekBrains\LastLesson\code\obj\Debug\net7.0\code.pdb
+C:\GeekBrains\LastLesson\code\obj\Debug\net7.0\code.genruntimeconfig.cache
+C:\GeekBrains\LastLesson\code\obj\Debug\net7.0\ref\code.dll
